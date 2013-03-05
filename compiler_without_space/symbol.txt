@@ -1,0 +1,3 @@
+Symbol Number	Symbol
+1	+
+2	;

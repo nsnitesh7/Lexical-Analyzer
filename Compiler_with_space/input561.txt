@@ -1,0 +1,39 @@
+# include < cstdio >
+
+int main 
+{
+	float d = 8.9 ;
+
+	while { 1 }
+	{
+		cout << " charu " ;
+		for { int i = 0 ; i < 10 ; i ++ }
+		{
+			cin >> d ;	
+		}
+	}
+}
+
+
+
+for int i = 0 ;
+rishi=5 ;
++ sdf ++ ; xam;
+int a = b + c ;
+/
+
+int main
+{
+	string str ;
+	int  i ;
+	str = " charu5 " ;
+
+	if{ i }
+		break ;
+
+	else
+		cout << " Hello " ;
+
+return 0 ;
+}
+

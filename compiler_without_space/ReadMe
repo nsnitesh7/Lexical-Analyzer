@@ -1,0 +1,7 @@
+Linux Command to Run the Program :
+
+cc group39.3.c
+./a.out
+
+The input is taken by the user on the terminal.
+The first new line encountered (Pressing "Enter") will be taken as the end of file (EOF).

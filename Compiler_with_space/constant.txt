@@ -1,0 +1,2 @@
+Constant Number	Constant
+1	0

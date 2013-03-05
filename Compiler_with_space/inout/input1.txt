@@ -1,0 +1,15 @@
+# include < cstdio >
+
+int main 
+{
+	float d = 8.9 ;
+
+	while { 1 }
+	{
+		cout << " charu " ;
+		for { int i = 0 ; i < 10 ; i ++ }
+		{
+			cin >> d ;	
+		}
+	}
+}

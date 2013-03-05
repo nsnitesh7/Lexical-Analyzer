@@ -1,0 +1,15 @@
+int main
+{
+	string str ;
+	int  i ;
+	str = " charu5 " ;
+
+	if{ i }
+		break ;
+
+	else
+		cout << " hello " ;
+
+return 0 ;
+}
+

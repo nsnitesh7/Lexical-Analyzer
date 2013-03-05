@@ -1,0 +1,13 @@
+# include <stdio.h>
+# include <stdlib.h>
+
+int main(int argc, char*argv[])
+{
+ 
+int a,b;
+a++;
+a= 5;
+b= 7;
+printf("a + b = %d", a+b);
+}
+
